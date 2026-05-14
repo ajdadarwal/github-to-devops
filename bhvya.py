@@ -1,1 +1,1 @@
-print("Bhavya Randi is very happy")
+print("Bhavya is very happy")
